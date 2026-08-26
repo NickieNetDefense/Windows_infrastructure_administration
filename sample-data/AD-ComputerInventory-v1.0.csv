@@ -1,0 +1,4 @@
+"Name","OperatingSystem","OperatingSystemVersion","Enabled","LastLogonDate","DistinguishedName"
+"DC01","Windows Server 2025 Standard Evaluation","10.0 (26100)","True","8/24/2026 10:29:25 PM","CN=DC01,OU=Domain Controllers,DC=ellistech,DC=test"
+"SRV01","Windows Server 2025 Standard Evaluation","10.0 (26100)","True","8/25/2026 10:25:51 AM","CN=SRV01,OU=Servers,OU=EllisTech,DC=ellistech,DC=test"
+"CLIENT01","Windows 11 Enterprise Evaluation","10.0 (26200)","True","8/25/2026 1:17:02 PM","CN=CLIENT01,OU=Workstations,OU=Computers,OU=EllisTech,DC=ellistech,DC=test"

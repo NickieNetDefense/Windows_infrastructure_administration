@@ -1,0 +1,3 @@
+"SamAccountName","DisplayName","Department","Title","Enabled","LastLogonDate","DistinguishedName"
+"Guest",,,,"False",,"CN=Guest,CN=Users,DC=ellistech,DC=test"
+"krbtgt",,,,"False",,"CN=krbtgt,CN=Users,DC=ellistech,DC=test"

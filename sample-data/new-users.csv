@@ -1,0 +1,4 @@
+FirstName,LastName,Username,EmployeeID,Department,JobTitle,Manager,StartDate,Location,OU
+Avery,Stone,astone2,10482,Finance,Financial Analyst,cruiz,2026-09-01,Orlando,"OU=Finance,OU=Users,OU=EllisTech,DC=ellistech,DC=test"
+Jordan,Reed,jreed2,10483,HR,HR Coordinator,mtorres,2026-09-01,Orlando,"OU=HR,OU=Users,OU=EllisTech,DC=ellistech,DC=test"
+Taylor,Nguyen,tnguyen2,10484,IT,Support Analyst,hwilson,2026-09-02,Remote,"OU=IT,OU=Users,OU=EllisTech,DC=ellistech,DC=test"

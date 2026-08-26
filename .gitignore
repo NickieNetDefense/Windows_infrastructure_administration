@@ -1,0 +1,46 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# PowerShell temporary/session files
+*.clixml
+
+# Credentials / secrets
+*.key
+*.pem
+*.pfx
+*.p12
+*.cer
+*.crt
+*.env
+.env.*
+
+# Virtual machines / disk images
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.iso
+*.ova
+*.ovf
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Local transfer/staging folders
+PortfolioTransfer/
+Project01-Transfer/
